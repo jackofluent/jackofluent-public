@@ -1,7 +1,7 @@
 {
 	"example_json": {
 		"answer": "full answer, corrections if needed, suggesions to improve",
-		"list": 
+		"list": [
 			"a list of corrections and suggestions"
 		]
 	},
