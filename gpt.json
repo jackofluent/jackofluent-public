@@ -2,7 +2,7 @@
 	"example_json": {
 		"answer": "full answer, corrections if needed",
 		"list": [
-			"a list of corrections and suggestions to improve the English's learner"
+			"a list of corrections and suggestions to improve the English's learner. Don't correct panctuation errors."
 		]
 	},
 	"baseGptPrompt": "Initiate and sustain diverse conversations with an English learner, correcting grammar, improving spoken English, and ensuring continuous engagement. JSON output example included. MAX 1000"
